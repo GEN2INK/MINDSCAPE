@@ -9,7 +9,7 @@
 
 讓我們一起來讀書~
 
-- **格式統一：** 皆用 MARKDOWN 格式，內部設置一個文件夾存放圖片。照片使用 PNG 格式，圖形使用 SVG 格式。SVG 的優勢在於可編輯性、文本格式特性以及矢量圖的廣泛兼容性。例外是照片，照片的話使用png格式。
+- **格式統一：** 皆用 MARKDOWN 格式，內部設置一個文件夾存放圖片。照片使用 PNG 格式，圖形使用 SVG 格式。SVG 的優勢在於可編輯性、文本格式特性以及矢量圖的廣泛兼容性。例外是照片，照片的話使用 PNG 格式。
 
 - **[1.SEMICONDUCTOR_MATERIALS_AND_PROPERTIES 半導體材料及其性質](1.SEMICONDUCTOR_MATERIALS_AND_PROPERTIES%20半導體材料及其性質/)：** 每種材料單獨成文，採用 MARKDOWN 格式撰寫。
 
@@ -25,7 +25,7 @@
 
 - **[7.HISTORICAL_FIGURES_AND_EVENTS 歷史人物和歷史事件](7.HISTORICAL_FIGURES_AND_EVENTS%20歷史人物和歷史事件/)：** 內容涵蓋重要歷史人物與重大事件，記錄生平、背景、思想、評價。主題文件命名採用「人物_姓名.md」或「事件_名稱.md」格式，避免過度細分子資料夾，同類歸併方便索引。
 
-歡迎對裏面的任何內容提出簡介。
+歡迎對裡面的任何內容提出見解。
 
 ---
 
@@ -49,7 +49,7 @@ Let's study together~
 
 - **[7.HISTORICAL_FIGURES_AND_EVENTS 歷史人物和歷史事件](7.HISTORICAL_FIGURES_AND_EVENTS%20歷史人物和歷史事件/)：** Content covers important historical figures and major events, documenting their lives, backgrounds, thoughts, and evaluations. Topic files are named using "人物_Name.md" or "事件_EventName.md" format, avoiding excessive subdivision of subfolders, with similar topics grouped for convenient indexing.
 
-Welcome to provide introductions for any content within.
+Welcome to provide insights for any content within.
 
 ---
 
